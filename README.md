@@ -7,7 +7,7 @@
 
 Meu nome é Vinicius, sou estudante de Ciência e Tecnologia e apaixonado por desenvolvimento.
 
-- 📌 Programador fullstack da **Lorbytech**.
+- 📌 Programador fullstack .
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Estudying English.
 
