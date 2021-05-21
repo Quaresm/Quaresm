@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniovinicius1801@gmail.com)](mailto:antoniovinicius1801@gmail.com)
 
 
-Meu nome é Vinicius, sou estudante de Ciência e Tecnologia e apaixonado por desenvolvimento.
+Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por desenvolvimento.
 
 - 📌 Programador fullstack .
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
