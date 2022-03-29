@@ -41,6 +41,6 @@ Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por des
   
   
 ## Contacts
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> +55(21)97974-2973
+  script async defer <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></script>  +55(21)97974-2973
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> matheusssquaresma@gmail.com
 
