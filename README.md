@@ -18,17 +18,16 @@ Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por des
   
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![Elixir](https://img.shields.io/badge/-Elixir-F7B93E?style=flat-square&logo=html5&logoColor=white)
+  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+  ![Python](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+  ![Azure Devops](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
   ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-EE1717?style=flat-square&logo=angular&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-F6C600?style=flat-square&logo=firebase&logoColor=white)
   </details>
@@ -41,6 +40,8 @@ Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por des
   
   
 ## Contacts
-  <a class="github-button" href="https://github.com/Quaresm/Quaresm/subscription" data-color-scheme="no-preference: dark; light: light_high_contrast; dark:   dark_dimmed;" data-icon="octicon-eye" aria-label="Watch Quaresm/Quaresm on GitHub">Number +55(21)97974-2973</a>  
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> matheusssquaresma@gmail.com
+  <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whiteNumber"/>
+  +55(21)97974-2973
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  matheusssquaresma@gmail.com
 
