@@ -8,6 +8,8 @@
 
 Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por desenvolvimento.
 
+My name is Matheus, I am a Science and Technology student and passionate about development.
+
 - 📌 Programador fullstack-júnior .
 - 📒 Techs: Phoenix, Elixir, React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Estudying English.
@@ -38,10 +40,4 @@ Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por des
   📒 English - Intermédiario;
   📒 Português - Língua Nativa.
   
-  
-## Contacts
-  <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whiteNumber"/>
-  +55(21)97974-2973
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  matheusssquaresma@gmail.com
-
+ 
