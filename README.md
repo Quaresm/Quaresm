@@ -16,7 +16,7 @@ Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por des
 
 ## Techs
   
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Quaresm&hide=html&layout=compact&theme=default)](https://github.com/Quaresm/)
+  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Elixir](https://img.shields.io/badge/-Elixir-F7B93E?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
@@ -38,4 +38,9 @@ Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por des
 ## Languages
   📒 English - Intermédiario;
   📒 Português - Língua Nativa.
+  
+  
+## Contacts
+  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white +55(21)97974-2973
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white matheusssquaresma@gmail.com
 
