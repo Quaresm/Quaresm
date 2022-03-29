@@ -41,6 +41,6 @@ Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por des
   
   
 ## Contacts
-  script async defer <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></script>  +55(21)97974-2973
+  <a class="github-button" href="https://github.com/Quaresm/Quaresm/subscription" data-color-scheme="no-preference: dark; light: light_high_contrast; dark:   dark_dimmed;" data-icon="octicon-eye" aria-label="Watch Quaresm/Quaresm on GitHub">Number +55(21)97974-2973</a>  
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> matheusssquaresma@gmail.com
 
