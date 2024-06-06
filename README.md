@@ -10,8 +10,8 @@ Meu nome é Matheus, sou estudante de Ciência e Tecnologia e apaixonado por des
 
 My name is Matheus, I am a Science and Technology student and passionate about development.
 
-- 📌 Programador fullstack-júnior .
-- 📒 Techs: Phoenix, Elixir, React.js, React Native, Node.js, JavaScript , entre outras.
+- 📌 SRE pleno; Programador fullstack;
+- 📒 Techs: Python, Phoenix, Elixir, React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Estudying English.
 
 ---
