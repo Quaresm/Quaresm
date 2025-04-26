@@ -12,7 +12,6 @@ My name is Matheus, I am a Science and Technology student and passionate about d
 
 - 📌 SRE pleno; Programador fullstack;
 - 📒 Techs: Python, Phoenix, Elixir, React.js, React Native, Node.js, JavaScript , entre outras.
-- 📚 Studying English.
 
 ---
 
